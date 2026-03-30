@@ -5,6 +5,8 @@
 * **Name:** Shreshth Shukla
 * **Registration Number:** 25BAI10529
 * **Branch:** B.Tech CSE (AI & ML)
+* **Course Code: CSE0001
+
 
 ---
 
