@@ -87,7 +87,7 @@ Prevention: Avoid suspicious links, verify sources and never share personal deta
 
 ## 🔗 Important Links
 
-* 📄 [Project Report](ProjectReport.pdf)
+* 📄 [Project Report](./ProjectReport.pdf)
 * 📝 [Digital Literacy Quiz (Google Forms)](https://forms.gle/dQw5H7UrfoJqjvsh6)
 
 ---
