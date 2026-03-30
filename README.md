@@ -51,7 +51,7 @@ This task focused on building a strong online presence and showcasing technical 
 
 ---
 
-### 💻 Task 3: Coding & Collaboration Platforms
+### [💻 Task 3: Coding & Collaboration Platforms](./task-3-platforms)
 
 Worked on platforms like:
 
