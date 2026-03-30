@@ -4,9 +4,9 @@
     Create passwords with a mix of letters, numbers, and symbols. Avoid using the same password across multiple apps.  
 2. 📲 **Enable Two-Factor Authentication (2FA)**  
     Turn on 2FA for Gmail, Instagram, banking apps, etc. for extra security.  
-3. 🚫 **Never share OTP or PIN** *(UPI Safety)*  
+3. 🚫 **Never share OTP or PIN**  
     Banks or apps will NEVER ask for your OTP. Sharing it can lead to instant money theft.  
-4. 💸 **Avoid “Collect Request” scams** *(UPI Safety)*  
+4. 💸 **Avoid “Collect Request” scams**  
     Don’t approve unknown payment requests on apps like Google Pay, PhonePe, or Paytm.  
 5. 🔗 **Do not click on suspicious links**  
     Especially links received via SMS, WhatsApp, or email claiming prizes, jobs, or urgent alerts.  
