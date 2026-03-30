@@ -1,4 +1,4 @@
-## **✅ Stay Safe Online – Prevention Checklist (For College Students in India)**
+## **✅ Stay Safe Online – Prevention Checklist**
 
 1. 🔐 **Use strong and unique passwords**  
     Create passwords with a mix of letters, numbers, and symbols. Avoid using the same password across multiple apps.  
