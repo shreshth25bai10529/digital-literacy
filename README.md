@@ -25,7 +25,7 @@ All tasks and activities are organized in this repository as a **complete digita
 
 ## 📚 Module Summaries
 
-### [Task 1: Digital Literacy Awareness Infographic](./task-1-presentation/DigitalLiteracyAwareness.png)
+### [📊 Task 1: Digital Literacy Awareness Infographic](./task-1-presentation/DigitalLiteracyAwareness.png)
 
 Created an informative infographic using **Canva** highlighting:
 
