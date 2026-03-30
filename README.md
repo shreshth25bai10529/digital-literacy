@@ -39,7 +39,7 @@ The infographic provides quick tips like using strong passwords, avoiding suspic
 
 ---
 
-### 🌐 Task 2: Student Digital Portfolio
+### [🌐 Task 2: Student Digital Portfolio](./task-2-portfolio)
 
 Developed and optimized professional profiles on:
 
